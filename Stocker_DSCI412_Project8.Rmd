@@ -1,0 +1,41 @@
+---
+title: "Stocker_DSCI412_Project8"
+output: html_document
+date: "2024-12-12"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Week 1
+
+In week one, we learned how to set up an Rmarkdown notebook. We also learned the basics of the data science process.
+
+### Week 2
+
+In week two we explored the titanic dataset. We looked at the data using visualization tools, and we found and fixed errors within the data,
+
+### Week 3
+
+In week three, we preformed linear regression. We also computed and interpreted the RSE, R\^2, and the p-value of these models.
+
+### Week 4
+
+In week four we learned about the difference between linear and logistic regression. We build a logistic regression model and explored classification problems.
+
+### Week 5
+
+In week five, we learned about GLMs. We also utilized poison and gamma regression models.
+
+### Week 6
+
+In week six, we learned about decision tree and random forest models. We also created these models using the bike sharing dataset.
+
+### Week 7
+
+In week seven, we learned about k-means clustering. We found the optimal umber of clusters using the elbow method and visualized the results.
+
+### Week 8
+
+In week eight, we put all of what we learned into a final project. We also learned about github and began experimenting with it.
